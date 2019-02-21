@@ -1,17 +1,17 @@
 {
   "main.css": "/static/css/main.5c85822d.chunk.css",
-  "main.js": "/static/js/main.f47d4743.chunk.js",
-  "main.js.map": "/static/js/main.f47d4743.chunk.js.map",
+  "main.js": "/static/js/main.efb21ddf.chunk.js",
+  "main.js.map": "/static/js/main.efb21ddf.chunk.js.map",
   "static/css/1.f9116d03.chunk.css": "/static/css/1.f9116d03.chunk.css",
-  "static/js/1.2b03a3ab.chunk.js": "/static/js/1.2b03a3ab.chunk.js",
-  "static/js/1.2b03a3ab.chunk.js.map": "/static/js/1.2b03a3ab.chunk.js.map",
+  "static/js/1.b3834299.chunk.js": "/static/js/1.b3834299.chunk.js",
+  "static/js/1.b3834299.chunk.js.map": "/static/js/1.b3834299.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/LOGODXC-01.jpg": "/static/media/LOGODXC-01.41e858fa.jpg",
-  "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/css/main.5c85822d.chunk.css.map": "/static/css/main.5c85822d.chunk.css.map",
   "static/css/1.f9116d03.chunk.css.map": "/static/css/1.f9116d03.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.2b5b611fd8338dc2c4b8e13c6e65075c.js": "/precache-manifest.2b5b611fd8338dc2c4b8e13c6e65075c.js",
+  "precache-manifest.09e08c25dd7ffea28dea7b7c1ac04888.js": "/precache-manifest.09e08c25dd7ffea28dea7b7c1ac04888.js",
   "service-worker.js": "/service-worker.js"
 }
